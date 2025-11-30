@@ -1,3 +1,3 @@
 window.onload = function (e) {
-    // TODO: implementa funcions
+    let variableMarta = "nova variable";
 };
